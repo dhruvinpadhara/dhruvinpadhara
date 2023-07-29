@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhruvinpadhara
-- 👀 I’m interested in java,spring mvc,spring boot,hibernate,jpa,hadoop
-- 🌱 I’m currently learning big-data
+- 👀 I’m interested in java,spring mvc,spring boot,hibernate,jpa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on LinkedIn,instagram
 
